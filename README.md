@@ -1,2 +1,2 @@
 # GPE
-GPE Download Page
+GPE Wallet Download Page
